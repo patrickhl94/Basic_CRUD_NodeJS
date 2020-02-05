@@ -20,4 +20,4 @@ Primeiro desafio do Bootcamp da Rocketseat, com o objetivo de criar uma aplicaç
   * http://localhost:3333/projects/"numero_id" (**Metodo PUT**) Passando no BODY {	"title" : "Nome Projeto"}
   * http://localhost:3333/projects/"numero_id" (**Metodo DELETE**)
   * http://localhost:3333/projects/"numero_id" (**Metodo POST**) Passando no BODY {	"title" : "Nome Tarefa"}
-  * **No lugar de "numero_id" inserir o numero a ser pesquidado**
+  * **No lugar de "numero_id" inserir o numero a ser pesquidado** 
