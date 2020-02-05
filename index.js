@@ -7,7 +7,7 @@ let projects = []
 let countRequest = 0
 
 //MIDDLEWARES
-//Middleware para veririficar se o existe projeto com o ID enviado via ROUTE PARAMS
+//Middleware para veririficar se o existe projeto com o ID enviado via ROUTE PARAMS.
 function verifyID(req, res, next) {
 
   const { id } = req.params
